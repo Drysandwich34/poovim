@@ -1,0 +1,12 @@
+{
+  "plugins": {
+    "alpha-nvim": {
+      "rev": "6c6a89d5b068b5251c8bdf0dd57bb921bcfeeb09",
+      "src": "https://github.com/goolord/alpha-nvim.git"
+    },
+    "mini.hues": {
+      "rev": "2001bacf27134c8573bdbda610a6133fe2894ccc",
+      "src": "https://github.com/nvim-mini/mini.hues"
+    }
+  }
+}
