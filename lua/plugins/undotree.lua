@@ -2,6 +2,7 @@ return {
   'mbbill/undotree',
   config = function()
     vim.opt.undofile = true
+    vim.opt.undodir = vim.fn.stdpath("data") .. "/undo"
 
     local function toggle_undotree()
       for _, win in ipairs(vim.api.nvim_list_wins()) do
