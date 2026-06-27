@@ -20,5 +20,7 @@ keybinds
 
 install on **Linux** 
 **git clone https://github.com/Drysandwich34/poovim.git ~/.config/nvim**
+
+
 install on **Windows**
 **git clone https://github.com/Drysandwich34/poovim.git %LOCALAPPDATA%/nvim**
